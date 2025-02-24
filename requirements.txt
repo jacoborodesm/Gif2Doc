@@ -1,0 +1,6 @@
+mss
+keyboard
+imageio[ffmpeg]
+opencv-python
+tk
+Pillow
